@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0484/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南海寶象林慧弓詗禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J35/J35nB336.xml
+    old_id: J35nB336
+hash: sha256:cfc285e70f0af758e84151e8eb7939939b3113f6231c955d81f6cf20ecb3b418
