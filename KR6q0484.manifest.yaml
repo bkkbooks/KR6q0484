@@ -22,19 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0484_000.yaml, hash: 'sha256:cfc285e70f0af758e84151e8eb7939939b3113f6231c955d81f6cf20ecb3b418'}
-  - {seq: 1, filename: KR6q0484_001.yaml, hash: 'sha256:edd49d7d32a213be21f458684abac8d2fb7360100e25dcebbdf86b4ad60e3db3'}
-  - {seq: 2, filename: KR6q0484_002.yaml, hash: 'sha256:e48bedcb5c117571566b09189ba63e1f2400f4ce3979cfe9f0d48b1b9cf917cc'}
-  - {seq: 3, filename: KR6q0484_003.yaml, hash: 'sha256:c90bd9309245b3ddef43e93b933d4a15444893a0109ffc30cf0a25f78290d551'}
-  - {seq: 4, filename: KR6q0484_004.yaml, hash: 'sha256:ad9a698bf869d0f4033949e6dffd7c9856191ede619f8f4bab264419f384acff'}
-  - {seq: 5, filename: KR6q0484_005.yaml, hash: 'sha256:76e8a7c64d4d71b2ca010952e385e704285e0cf896d5b1f93122c25fb6b3515a'}
-  - {seq: 6, filename: KR6q0484_006.yaml, hash: 'sha256:05f28d692ab054c12f6319d94049040a25e9c8efaf53a1460d63ade045deddd9'}
+  - {seq: 1, filename: KR6q0484_001.yaml, hash: 'sha256:70a01d974faa85f302b3feec8ae02944402c79ac60e902e63604adf910f66393'}
+  - {seq: 2, filename: KR6q0484_002.yaml, hash: 'sha256:c6eb0603ee775aadc9fdd1a2a442f7bbc33351f9f6d0fdf91c02b0a183b8e333'}
+  - {seq: 3, filename: KR6q0484_003.yaml, hash: 'sha256:587ab76c46ad269abc07c38e21a4b463cf8fd7bcbdd447c021f1b61efb7f892b'}
+  - {seq: 4, filename: KR6q0484_004.yaml, hash: 'sha256:d95e7ee1632668a556a7eaba7ae41ff3ebcda469aec0a13394a22ba032b86b95'}
+  - {seq: 5, filename: KR6q0484_005.yaml, hash: 'sha256:210ed1eae50e1632b75665b33c3399039507258bb1e2e7ed6f3a94c64879a36c'}
+  - {seq: 6, filename: KR6q0484_006.yaml, hash: 'sha256:ddff3dd70151959965144489c663a6e1693a5c8e5b2c2eaac863ae567d596038'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0484_001.markers.yaml, hash: 'sha256:fbc849927b49fd1ecdd7ccd53043726e763948b1bb0aabd7a8679233aa2deea9'}
-  - {seq: 2, role: markers, filename: assets/KR6q0484_002.markers.yaml, hash: 'sha256:1a5f5280109a15ffa9e9ba8d37c5f6b591a1c3e16ca0cf30d928d3db635af873'}
-  - {seq: 3, role: markers, filename: assets/KR6q0484_003.markers.yaml, hash: 'sha256:df58339ab836c02697eab073fa4b2b34a79b0a3cae40b8c55973ded0e026d457'}
-  - {seq: 4, role: markers, filename: assets/KR6q0484_004.markers.yaml, hash: 'sha256:1978cc6edd34dc0805809fb360ad8a03660282ed124400963149539da4a7670b'}
-  - {seq: 5, role: markers, filename: assets/KR6q0484_005.markers.yaml, hash: 'sha256:aa8284df0d4ede1fd07392c0a6ab6494ee74bf120f866999462e031b2493c32b'}
-  - {seq: 6, role: markers, filename: assets/KR6q0484_006.markers.yaml, hash: 'sha256:d1e2252d4ae3a6781c879232940f4f2fc20a301a046b0a05f99279c212e06ca9'}
+  - {seq: 0, role: markers, filename: assets/KR6q0484_000.markers.yaml, hash: 'sha256:ad6f618217f2ebba02a021aed515d824109da5d08e7205978376fe5f31fb44a2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0484_001.markers.yaml, hash: 'sha256:857fb0966ff1b8e55429cde2074e2c9ce1fbf8e14a8ad133d74850b1dc044a23'}
+  - {seq: 2, role: markers, filename: assets/KR6q0484_002.markers.yaml, hash: 'sha256:22afeb016431a7029598a2f6eb838e15238aec23e1b4c53797d07620076dc291'}
+  - {seq: 3, role: markers, filename: assets/KR6q0484_003.markers.yaml, hash: 'sha256:6078beb75ce27ee0dfa6fe73f6c94a4a6d4b33afed0af436804a332839eb1882'}
+  - {seq: 4, role: markers, filename: assets/KR6q0484_004.markers.yaml, hash: 'sha256:16f2bccfdff0a381f5d580c10f096dd2cfaac39f006b50499ca67a1220c31a8f'}
+  - {seq: 5, role: markers, filename: assets/KR6q0484_005.markers.yaml, hash: 'sha256:38f7d9ca11d065942f17c48d79078ac2d9f0bf35e64160d97cff353092b4afc4'}
+  - {seq: 6, role: markers, filename: assets/KR6q0484_006.markers.yaml, hash: 'sha256:4f20fd893e886214d0be94825245ea8d789f1966ef1e601882d8b0838cd8da52'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2356,7 +2357,4 @@ table_of_contents:
   label: 吉州青原笑峰大然禪師
   type: mulu
   level: 1
-hash: sha256:198e22cf4d18843109c1e0ab78d310b23916f438c96a1ec7842a5daafaa73746
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7f6eebe7cff9db86eab1dd6b8b9f68a3ad8704ac74cb01c056e7ecbcb1d4e680
