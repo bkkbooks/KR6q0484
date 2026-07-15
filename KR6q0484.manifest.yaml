@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0484/v1
 canonical_location: https://kanripo.org/bkk/KR6q0484/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 南海寶象林慧弓詗禪師語錄
   identifiers:
@@ -22,20 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0484_000.yaml, hash: 'sha256:cfc285e70f0af758e84151e8eb7939939b3113f6231c955d81f6cf20ecb3b418'}
-  - {seq: 1, filename: KR6q0484_001.yaml, hash: 'sha256:70a01d974faa85f302b3feec8ae02944402c79ac60e902e63604adf910f66393'}
-  - {seq: 2, filename: KR6q0484_002.yaml, hash: 'sha256:c6eb0603ee775aadc9fdd1a2a442f7bbc33351f9f6d0fdf91c02b0a183b8e333'}
-  - {seq: 3, filename: KR6q0484_003.yaml, hash: 'sha256:587ab76c46ad269abc07c38e21a4b463cf8fd7bcbdd447c021f1b61efb7f892b'}
-  - {seq: 4, filename: KR6q0484_004.yaml, hash: 'sha256:d95e7ee1632668a556a7eaba7ae41ff3ebcda469aec0a13394a22ba032b86b95'}
-  - {seq: 5, filename: KR6q0484_005.yaml, hash: 'sha256:210ed1eae50e1632b75665b33c3399039507258bb1e2e7ed6f3a94c64879a36c'}
-  - {seq: 6, filename: KR6q0484_006.yaml, hash: 'sha256:ddff3dd70151959965144489c663a6e1693a5c8e5b2c2eaac863ae567d596038'}
+  - {seq: 1, filename: KR6q0484_001.yaml, hash: 'sha256:898a35b20b5e050d5d00721eb7c7a2ac6bc2ea300c4aeb8ea435cf30c62c2137'}
+  - {seq: 2, filename: KR6q0484_002.yaml, hash: 'sha256:1e599c6ce0f537c9f088885b8633a917db70dae1e22533b501388c433fa70a3a'}
+  - {seq: 3, filename: KR6q0484_003.yaml, hash: 'sha256:c90bd9309245b3ddef43e93b933d4a15444893a0109ffc30cf0a25f78290d551'}
+  - {seq: 4, filename: KR6q0484_004.yaml, hash: 'sha256:28f06fba1aaf77ae79dab54e71b59508829bd57afe129e3c3e1270d898f39154'}
+  - {seq: 5, filename: KR6q0484_005.yaml, hash: 'sha256:a601bd0198835719d9f5fa6063f008230fe8d77d3814a84e8fa3dee2fe06a0f6'}
+  - {seq: 6, filename: KR6q0484_006.yaml, hash: 'sha256:f1332a4e39f6977215e9099c952b5f7b362190ac3f96ae84ecaa98303535bb0c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0484_000.markers.yaml, hash: 'sha256:ad6f618217f2ebba02a021aed515d824109da5d08e7205978376fe5f31fb44a2'}
-  - {seq: 1, role: markers, filename: assets/KR6q0484_001.markers.yaml, hash: 'sha256:857fb0966ff1b8e55429cde2074e2c9ce1fbf8e14a8ad133d74850b1dc044a23'}
-  - {seq: 2, role: markers, filename: assets/KR6q0484_002.markers.yaml, hash: 'sha256:22afeb016431a7029598a2f6eb838e15238aec23e1b4c53797d07620076dc291'}
-  - {seq: 3, role: markers, filename: assets/KR6q0484_003.markers.yaml, hash: 'sha256:6078beb75ce27ee0dfa6fe73f6c94a4a6d4b33afed0af436804a332839eb1882'}
-  - {seq: 4, role: markers, filename: assets/KR6q0484_004.markers.yaml, hash: 'sha256:16f2bccfdff0a381f5d580c10f096dd2cfaac39f006b50499ca67a1220c31a8f'}
-  - {seq: 5, role: markers, filename: assets/KR6q0484_005.markers.yaml, hash: 'sha256:38f7d9ca11d065942f17c48d79078ac2d9f0bf35e64160d97cff353092b4afc4'}
-  - {seq: 6, role: markers, filename: assets/KR6q0484_006.markers.yaml, hash: 'sha256:4f20fd893e886214d0be94825245ea8d789f1966ef1e601882d8b0838cd8da52'}
+  - {seq: 1, role: markers, filename: assets/KR6q0484_001.markers.yaml, hash: 'sha256:4413e871c0daea92d297c3e731bcabfc7302ba26e0011ff8b476513ad32b662a'}
+  - {seq: 2, role: markers, filename: assets/KR6q0484_002.markers.yaml, hash: 'sha256:a696884533e4316709e7547542cdef52edf78e63246d44c5550127fbefd21024'}
+  - {seq: 3, role: markers, filename: assets/KR6q0484_003.markers.yaml, hash: 'sha256:655520174040953b2970a858c169fcc48fa64f6a232568fd0ba7f8b7f9d602ad'}
+  - {seq: 4, role: markers, filename: assets/KR6q0484_004.markers.yaml, hash: 'sha256:d336db8231a08436ca6f13abe511668724f489ffa563beafe60db7a5170df69e'}
+  - {seq: 5, role: markers, filename: assets/KR6q0484_005.markers.yaml, hash: 'sha256:1ba2f544fdb8cf4d6a076e0e052ffd6eb06a380a12b06c8795dc511d0a24ec96'}
+  - {seq: 6, role: markers, filename: assets/KR6q0484_006.markers.yaml, hash: 'sha256:4ec3ab1fd9f32d845204ac55e2a4632ffe184fe1779609d1722da64b521a1d00'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2357,4 +2357,7 @@ table_of_contents:
   label: 吉州青原笑峰大然禪師
   type: mulu
   level: 1
-hash: sha256:7f6eebe7cff9db86eab1dd6b8b9f68a3ad8704ac74cb01c056e7ecbcb1d4e680
+hash: sha256:bfa361bfff3516ede04285c665490717669f8858fe593d249316144d78d954f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
